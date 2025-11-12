@@ -1,4 +1,6 @@
 body {
+  max-width: 80%;
+  margin: 0 auto;
   background-color: black;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
